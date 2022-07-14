@@ -123,7 +123,7 @@ const App = () => {
 
   const [huntersThings, setHuntersThings] = useState([
     {
-      name: "energy drinks",
+      name: "coffee",
       image: "https://imgs.xkcd.com/comics/functional.png",  
       attributes: ["efficient", "reusability", "not a taco", "super good"],
     },
